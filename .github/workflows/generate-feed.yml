@@ -54,7 +54,8 @@ jobs:
           git add feed-x.json feed-podcasts.json feed-blogs.json state-feed.json || true
           git diff --cached --quiet || git commit -m "chore: update feeds [skip ci]"
           git push
-- name: Send Today's Digest to Telegram
+
+      - name: Send Today's Digest to Telegram
         uses: appleboy/telegram-action@master
         with:
           to: ${{ secrets.TELEGRAM_CHAT_ID }}
@@ -65,4 +66,4 @@ jobs:
             
             📂 原始抓取数据已成功同步至你的 GitHub 仓库。
             
-            ✨ *提示：由于原始数据体积较大，建议在 Telegram 内回复 /digest 或配合本地大模型读取仓库中的 `feed-x.json` 以获取最完美的双语排版阅读体验！*
+            ✨ *提示：由于原始数据体积较大，建议配合本地大模型（如 Cursor 或 Obsidian）读取仓库中的 `feed-x.json` 以获取最完美的双语排版阅读体验！*
