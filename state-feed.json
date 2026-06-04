@@ -16,11 +16,19 @@
     "substack:post:200078058": 1780397888476,
     "a014ff02-bdcf-478b-8d23-6c05a4c35788": 1780397888591,
     "substack:post:200249307": 1780485889830,
-    "c85a76ee-3dd8-11f1-8934-37efe54dd294": 1780485889891
+    "c85a76ee-3dd8-11f1-8934-37efe54dd294": 1780485889891,
+    "0c2c7d0c-5fc8-11f1-84fd-97552ff30f86": 1780568030574,
+    "substack:post:199994886": 1780568030721,
+    "substack:post:200432443": 1780568030819,
+    "39522bf7-c802-4596-a9bc-2f1b28b51c39": 1780568030908,
+    "10556d62-a6f5-44a2-aae6-0cb62f28313b": 1780568030996
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/managed-agents": 1779964547513,
     "https://claude.com/blog/claude-managed-agents-updates": 1779964548269,
-    "https://claude.com/blog/new-in-claude-managed-agents": 1780219568565
+    "https://claude.com/blog/new-in-claude-managed-agents": 1780219568565,
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1780568032113,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1780568032923,
+    "https://claude.com/blog/connectors-for-everyday-life": 1780568033590
   }
 }
