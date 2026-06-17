@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "0fae4dc4-6456-11f1-9180-3f07b7c1bee8": 1781087753583,
     "c8ac5d90-6517-11f1-83d7-d3b49f07aa8f": 1781175630437,
     "bb5cd6c0-a739-49e2-96eb-f03d5c26db38": 1781175630622,
     "cfdceef6-642a-11f1-9b24-634dad16ced0": 1781175630732,
@@ -22,6 +21,7 @@
     "https://www.anthropic.com/engineering/april-23-postmortem": 1781260931500,
     "https://www.anthropic.com/engineering/managed-agents": 1781431108492,
     "https://claude.com/blog/claude-managed-agents-updates": 1781431109155,
-    "https://claude.com/blog/new-in-claude-managed-agents": 1781609870337
+    "https://claude.com/blog/new-in-claude-managed-agents": 1781609870337,
+    "https://claude.com/blog/claude-for-foundation-models": 1781695123875
   }
 }
