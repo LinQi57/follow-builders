@@ -1,8 +1,13 @@
 {
-  "generatedAt": "2026-07-08T08:46:37.850Z",
+  "generatedAt": "2026-07-09T09:59:25.879Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  }
+  },
+  "errors": [
+    "Podcast: Transcript error for \"Why AI Infrastructure must evolve for Agent Experience — Akshat Bubna, Modal CTO\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"How a Writer Uses AI Without Losing His Voice\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}",
+    "Podcast: Transcript error for \"Why Hardware-Software Co-Design Is AI's Real 100x: Dylan Patel of SemiAnalysis\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+  ]
 }
