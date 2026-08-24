@@ -1,11 +1,8 @@
 {
-  "generatedAt": "2026-08-23T07:05:16.493Z",
+  "generatedAt": "2026-08-24T07:31:40.566Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
-  },
-  "errors": [
-    "Podcast: Transcript error for \"What Chess.com Teaches US About Superhuman Capabilities, with CEO Erik Allebest\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
-  ]
+  }
 }
