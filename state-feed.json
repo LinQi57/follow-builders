@@ -1,9 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "substack:post:219666029": 1791636107515,
-    "44fa0b1c-be0b-11f1-b00d-cb6a27141e9e": 1791636107675,
-    "substack:post:218414422": 1791636107769,
     "d7ae4536-c437-11f1-9011-633961538ee5": 1791901291838,
     "77097e65-4ead-46c4-b497-36fa09bd0f11": 1791979428865,
     "28c38604-c0da-11f1-8b1e-33a0102fe4b6": 1791979429108,
@@ -13,10 +10,13 @@
     "flightcast:01M4WXZJC42R6K30JBFDV56TDM": 1792064444935,
     "substack:post:220234130": 1792064445040,
     "8a1c6546-cdae-4bef-883d-56cb734967df": 1792234458897,
-    "flightcast:01M4BDW19ZFPED9TQ4S5DP60PY": 1792234459054
+    "flightcast:01M4BDW19ZFPED9TQ4S5DP60PY": 1792234459054,
+    "994123ec-c395-11f1-b01e-fff03490a570": 1792322421907
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/managed-agents": 1791723812837,
-    "https://www.anthropic.com/engineering/redesigning-source-control": 1791979429342
+    "https://www.anthropic.com/engineering/redesigning-source-control": 1791979429342,
+    "https://www.anthropic.com/engineering/how-we-contain-claude": 1792322422217,
+    "https://www.anthropic.com/engineering/april-23-postmortem": 1792322422933
   }
 }
