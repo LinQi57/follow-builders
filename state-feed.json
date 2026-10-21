@@ -1,7 +1,6 @@
 {
   "seenTweets": {},
   "seenVideos": {
-    "d7ae4536-c437-11f1-9011-633961538ee5": 1791901291838,
     "77097e65-4ead-46c4-b497-36fa09bd0f11": 1791979428865,
     "28c38604-c0da-11f1-8b1e-33a0102fe4b6": 1791979429108,
     "c1edee86-471f-4e57-848d-a45a5de1dc53": 1792064444563,
@@ -13,7 +12,8 @@
     "flightcast:01M4BDW19ZFPED9TQ4S5DP60PY": 1792234459054,
     "994123ec-c395-11f1-b01e-fff03490a570": 1792322421907,
     "substack:post:219666029": 1792416822770,
-    "6ee9a1f4-cbf7-11f1-bd53-0b2f603ad192": 1792496919924
+    "6ee9a1f4-cbf7-11f1-bd53-0b2f603ad192": 1792496919924,
+    "substack:post:221372257": 1792584042314
   },
   "seenArticles": {
     "https://www.anthropic.com/engineering/redesigning-source-control": 1791979429342,
