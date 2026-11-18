@@ -1,11 +1,11 @@
 {
-  "generatedAt": "2026-11-17T16:12:32.186Z",
+  "generatedAt": "2026-11-18T15:47:41.217Z",
   "lookbackHours": 336,
   "podcasts": [],
   "stats": {
     "podcastEpisodes": 0
   },
   "errors": [
-    "Podcast: Transcript error for \"Building Visual Intelligence — Andreas Blattmann &amp; Dustin Podell, Black Forest Labs\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
+    "Podcast: Transcript error for \"What Frontier Labs Buy: A Data Deep Dive with Handshake AI — Garrett Lord &amp; Team\": HTTP 401: {\"status\":\"error\",\"message\":\"Invalid API key\"}"
   ]
 }
